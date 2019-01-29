@@ -2,7 +2,7 @@
 <project version="4">
   <component name="WebServers">
     <option name="servers">
-      <webServer id="c1f75de3-13a1-47b6-bbd4-347994b46d54" name="bitfrost.mediaopl.nl" url="http://slaman.coolpage.biz">
+      <webServer id="c1f75de3-13a1-47b6-bbd4-347994b46d54" name="bitfrost.mediaopl.nl" url="">
         <fileTransfer host="slaman.coolpage.biz" port="21">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
