@@ -35,7 +35,8 @@ for($i = 0; $i <=20; $i++) {
 ---------------------------------------------------
 <br>
 <br>
+<a href="../index.php">Terug naar de inhoudsopgave</a>
+<br>
 <a href="../h02/page2.php">Terug naar pagina 1</a>
 <br>
-<a href="../index.php">Terug naar de inhoudsopgave</a>
-
+<a href="../h02/page2.2.php">Opdracht 2.2</a>
