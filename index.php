@@ -9,5 +9,8 @@
 </head>
 <body>
 <a href="h01/page.php">Opgave hoofdstuk 1</a>
+<br>
+<a href="h02/page2.php">Opgave hoofdstuk 2</a>
+
 </body>
 </html>
