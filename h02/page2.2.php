@@ -24,4 +24,4 @@ for ($x = 35; $x >= 25; $x--) {
 <br>
 <a href="../h02/page2.php">Terug naar pagina 1</a>
 <br>
-<a href="../h02/page2.3.php">Pagina 3</a>
+<a href="../h02/page2.3.php">opdracht 2.3</a>
