@@ -24,6 +24,7 @@
 <br>
 <a href="h02/page2.5.php">Opgave 2.5</a>
 <br>
+<a href="h02/page2.6.php">Opgave 2.6</a>
 -----------------------------------------------------
 <br>
 </body>
