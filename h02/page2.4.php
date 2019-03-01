@@ -43,3 +43,5 @@ echo $bedrag;
 <a href="../index.php">Terug naar de inhoudsopgave</a>
 <br>
 <a href="../h02/page2.php">Terug naar pagina 1</a>
+<br>
+<a href="page2.5.php">Opdracht 2.5</a>
