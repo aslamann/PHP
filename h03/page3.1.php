@@ -17,7 +17,12 @@
 </head>
 <body>
 <ul>
+<?php
 
+    $a = 3;
+    $ok = 6 / $a;
+echo $ok;
+?>
 </ul>
 </body>
 </html>

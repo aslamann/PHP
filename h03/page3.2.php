@@ -2,29 +2,26 @@
 /**
  * Created by PhpStorm.
  * User: Anouk
- * Date: 4-3-2019
- * Time: 12:27
+ * Date: 12-3-2019
+ * Time: 09:36
  */
 ?>
 
 <!DOCTYPE html>
 <html>
 <head>
-    <title>PHP opdracht 3</title>
+    <title>PHP opdracht 3.1</title>
     <style>
 
     </style>
 </head>
 <body>
 <ul>
-    <?php
-    $C = 30;
-    $F=($C*1.8)+32;
-    echo $F;
-    ?>
+    
 </ul>
 </body>
 </html>
+
 
 <br>
 <br>
@@ -33,4 +30,5 @@
 <br>
 <a href="../index.php">Terug naar de inhoudsopgave</a>
 <br>
-<a href="page3.1.php">Opdracht 3.1</a>
+<a href="../h03/page%203.php">Terug naar pagina 1</a>
+<br>
