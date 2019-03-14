@@ -34,7 +34,14 @@
 <br>
 -----------------------------------------------------
 <br>
-<a href="h04/page4.php">Hoofdstuk 4</a>
 
+<a href="h04/page4.php">Opgave hoofdstuk 4</a>
+<br>
+<a href="h04/page4.1.php">Opgave 4.1</a>
+<br>
+<p>hoofdstuk 4 is eigenlijk 5 volgens classroom<br>
+3 is opdracht 4.</p>
+
+-----------------------------------------------------
 </body>
 </html>
