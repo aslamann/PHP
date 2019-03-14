@@ -10,15 +10,17 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>PHP opdracht 3.1</title>
+    <title>PHP opdracht 4</title>
     <style>
 
     </style>
 </head>
 <body>
-<ul>
-    
-</ul>
+<form action="response.php" method="post">
+    e-mail <input type="text" name="e-mail"><br>
+    Wachtwoord <input type="password" name="Wachtwoord"><br>
+    <input type="submit" name="knop">
+</form>
 </body>
 </html>
 
@@ -29,6 +31,3 @@
 <br>
 <br>
 <a href="../index.php">Terug naar de inhoudsopgave</a>
-<br>
-<a href="../h03/page%203.php">Terug naar pagina 1</a>
-<br>

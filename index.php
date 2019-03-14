@@ -31,5 +31,10 @@
 <a href="h03/page%203.php">Opgave Hoofdstuk 3</a>
 <br>
 <a href="h03/page3.1.php">Opgave 3.1</a>
+<br>
+-----------------------------------------------------
+<br>
+<a href="h04/page4.php">Hoofdstuk 4</a>
+
 </body>
 </html>
